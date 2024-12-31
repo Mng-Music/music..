@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+    
+ #alinhar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-collapse: collapse;
+ }
+img {
+    width: 100%;
+}
+img #um {
+    position: relative;
+}
+
+#b1 {
+    width: 11vw;
+    height: 2vh;
+    border: none;
+    background: yellow;
+
+    position:absolute;
+    top: 17%;
+    right: 83%;
+
+}
