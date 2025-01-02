@@ -19,8 +19,9 @@ img #um {
 
 #b1 {
     width: 8.0rem;
-    height: 2vh;
+    height: 2.0rem;
     border: none;
+    border-radius: 20%;
     background: yellow;
 
     position:absolute;
