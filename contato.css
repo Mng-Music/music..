@@ -1,6 +1,6 @@
 * {
     padding: 0;
-    margin: 10%;
+    margin: 0;
 
     font-size: 62.5%;
 }
@@ -18,5 +18,8 @@ h1 {
 .alinhar {
     display: flex;
     justify-content: center;
-    gap: 1.0rem;
+}
+.metade {
+    border: 2px black;
+    border-radius: 0.5rem
 }
