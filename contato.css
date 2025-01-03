@@ -5,6 +5,14 @@
     font-size: 62.5%;
 }
 
+#conteudo {
+    margin: 10%;
+}
+
+h1 {
+    align-items: center;
+    margin-bottom: 5%;
+}
 
 .alinhar {
     display: flex;
